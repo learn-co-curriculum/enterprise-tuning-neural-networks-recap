@@ -20,11 +20,9 @@ The key takeaways from this section include:
 * Training of deep neural networks can be sped up by using normalized inputs
 * Normalized inputs can also help mitigate a common issue of vanishing or exploding gradients
 
-### Convolutional Neural Networks
+### TensorBoard
 
-* CNNs are a useful model for image recognition due to their ability to recognize visual patterns at varying scales
-* The essence of a CNN is a convolutional operation, where a window is slid across the image based on a stride size
-* Padding can be used to prevent shrinkage and make sure pixels at the edge of an image receive the necessary attention
-* Max pooling is typically used between convolutional layers to reduce the dimensionality
-* After developing the convolutional and pooling layers to form a base, the end of the network architecture still connects back to a densely connected network to perform classification
+* We can use TensorBoard to help us with the evaluation of models
+* We can use TensorBoard to experiment with the neural network
+
 
