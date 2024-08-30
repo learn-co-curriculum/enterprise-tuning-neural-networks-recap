@@ -20,9 +20,4 @@ The key takeaways from this section include:
 * Training of deep neural networks can be sped up by using normalized inputs
 * Normalized inputs can also help mitigate a common issue of vanishing or exploding gradients
 
-### TensorBoard
-
-* We can use TensorBoard to help us with the evaluation of models
-* We can use TensorBoard to experiment with the neural network
-
 
